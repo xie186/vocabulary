@@ -6,3 +6,6 @@
 
 *adjective*
 relevant or applicable to a particular matter; apposite.
+
+"...Oprah did a great interview — asked pertinent questions and portrayed empathy without appearing credulous..."
+
