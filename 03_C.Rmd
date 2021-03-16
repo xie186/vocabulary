@@ -1,4 +1,4 @@
-# A 
+# C 
 
 ## `cede`
 
@@ -7,3 +7,16 @@
 > give up (power or territory).
 
 Example:  "he ceded control of the company to his brother"
+
+
+## `credulous`
+
+*adjective*
+
+> having or showing too great a readiness to believe things.
+
+Example: 
+
+* Few people are credulous enough to believe such nonsense.
+
+
