@@ -1,6 +1,6 @@
 ---
-title: "A Book"
-author: "Frida Gomam"
+title: "English Vocabulary list for Chinese"
+author: "Shaojun Xie (解少俊)"
 site: bookdown::bookdown_site
 documentclass: book
 output:
@@ -9,5 +9,9 @@ output:
 ---
 
 # Introduction
+
+As I was reading books or talking to people, I had lots of words, idioms or slangs that I didn't know. So I wrote this notebook for a quick recap. 
+
+
 
 
