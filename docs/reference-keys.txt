@@ -7,12 +7,14 @@ cede
 c
 cede-1
 credulous
-a-2
-cede-2
+d
+drake
 e
 excerpt
 h
 heist
+i
+iridescent
 p
 pertinent
 section
