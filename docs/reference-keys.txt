@@ -9,11 +9,15 @@ cede-1
 credulous
 a-2
 cede-2
-a-3
-cede-3
+e
+excerpt
+h
+heist
 p
 pertinent
 section
+r
+rhetoric
 slang-and-idiom-in-englis
 side-hustle
 section-1
